@@ -20,5 +20,14 @@ A beginner-friendly Python project that visualizes student marks using `pandas`,
    ```bash
    pip install -r requirements.txt
 
+## 📊 Output Examples
 
+### 1. Total Marks per Student
+![Total Marks](total_marks_chart.png)
+
+### 2. Average Marks per Subject
+![Average Marks](average_marks_line.png)
+
+### 3. Performance Heatmap
+![Heatmap](performance_heatmap.png)
 
